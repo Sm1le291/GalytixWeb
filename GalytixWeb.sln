@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalytixWeb.Services.Abstractions", "GalytixWeb.Services.Abstractions\GalytixWeb.Services.Abstractions.csproj", "{37899DCD-756A-4903-8323-39ED0A277BE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalytixWeb.Services", "GalytixWeb.Services\GalytixWeb.Services.csproj", "{76220854-2A29-4C3D-B467-07BEA63D1D85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalytixWeb.DataAccess.Models", "GalytixWeb.DataAccess.Models\GalytixWeb.DataAccess.Models.csproj", "{7079085E-5FE9-4C87-9863-74A6DF232B16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalytixWeb.DataAccess.Abstractions", "GalytixWeb.DataAccess.Abstractions\GalytixWeb.DataAccess.Abstractions.csproj", "{5F0D0CCD-EA3E-4E98-9326-0B407B7BBF76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalytixWeb.DataAccess", "GalytixWeb.DataAccess\GalytixWeb.DataAccess.csproj", "{D2956814-A9DB-4074-9496-D6D7A1A3C98F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalytixWeb", "GalytixWeb\GalytixWeb.csproj", "{C75E1027-62E6-41E3-8D65-4CA7E3E977D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37899DCD-756A-4903-8323-39ED0A277BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37899DCD-756A-4903-8323-39ED0A277BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37899DCD-756A-4903-8323-39ED0A277BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37899DCD-756A-4903-8323-39ED0A277BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76220854-2A29-4C3D-B467-07BEA63D1D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76220854-2A29-4C3D-B467-07BEA63D1D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76220854-2A29-4C3D-B467-07BEA63D1D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76220854-2A29-4C3D-B467-07BEA63D1D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7079085E-5FE9-4C87-9863-74A6DF232B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7079085E-5FE9-4C87-9863-74A6DF232B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7079085E-5FE9-4C87-9863-74A6DF232B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7079085E-5FE9-4C87-9863-74A6DF232B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0D0CCD-EA3E-4E98-9326-0B407B7BBF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0D0CCD-EA3E-4E98-9326-0B407B7BBF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0D0CCD-EA3E-4E98-9326-0B407B7BBF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0D0CCD-EA3E-4E98-9326-0B407B7BBF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2956814-A9DB-4074-9496-D6D7A1A3C98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2956814-A9DB-4074-9496-D6D7A1A3C98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2956814-A9DB-4074-9496-D6D7A1A3C98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2956814-A9DB-4074-9496-D6D7A1A3C98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75E1027-62E6-41E3-8D65-4CA7E3E977D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75E1027-62E6-41E3-8D65-4CA7E3E977D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75E1027-62E6-41E3-8D65-4CA7E3E977D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75E1027-62E6-41E3-8D65-4CA7E3E977D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C656EACF-3E62-4FDA-8BD7-8E71767886AD}
+	EndGlobalSection
+EndGlobal

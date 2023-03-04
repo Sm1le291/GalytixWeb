@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GalytixWeb.DataAccess.Abstractions\GalytixWeb.DataAccess.Abstractions.csproj" />
+    <ProjectReference Include="..\GalytixWeb.Services.Abstractions\GalytixWeb.Services.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
